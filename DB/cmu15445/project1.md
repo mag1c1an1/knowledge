@@ -16,5 +16,8 @@ DeletePage 记得要用Deallocate,不然gradescope会memeory leak 。
 
 # Leaderboard Task (Optional)
 2023/06/23  
-![before_rank](./p1_before_rank.png)
+![before_rank_1](./p1_before_rank.png)
+2023/06/25
+![before_rank_2](./p1_before_rank_2.png)
+gradescope有bug吧我什么优化都没做....  
 TODO
